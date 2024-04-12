@@ -42,7 +42,7 @@ Distributed under the GPL2 License. See `LICENSE` for more information.
 
 ## Support
 
-For support, email byron@heavyweightdigital.co.za or visit <https://heavyweightdigital.co.za>.
+For support visit <https://heavyweightdigital.co.za>.
 
 ## Author
 
